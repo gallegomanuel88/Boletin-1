@@ -11,9 +11,6 @@ package pruebas.con.git.pkg2;
  */
 public class PruebasConGIT2 {
 
-    /**
-     * empezando
-     */
     public static void main(String[] args) {
         // TODO code application logic here
     }
